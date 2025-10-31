@@ -1,0 +1,6 @@
+anuj,anuj,buyer,234567899
+chirag,asd,buyer,9897074277
+harsh,harsh,seller,2345678906
+parth,parth,buyer,2345678901
+shourya,shourya,seller,9876543212
+sumit,sumit,seller,3456789098

@@ -1,0 +1,12 @@
+1,tommy,pitbull,5,30000,shourya
+2,tom,indian,4,2000,shourya
+3,rocky,labrador,3,25000,shourya  
+4,max,german shepherd,6,35000,harsh  
+5,buddy,golden retriever,2,40000,harsh  
+6,bruno,beagel,4,22000,harsh
+7,charlie,doberman,5,28000,harsh  
+8,rex,husky,3,45000,sumit  
+9,leo,pug,2,18000,sumit  
+10,browny,cocker spaniel,4,26000,sumit  
+11,jack,rottweiler,5,37000,sumit  
+12,milo,dalmatian,3,30000,sumit
